@@ -1,0 +1,60 @@
+a {
+    color:#000;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #ff0080;
+    border-color: #e60073;
+}
+
+.btn-outline-primary {
+    color: #ff0080;
+    background-image: none;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.form-control {
+   color: #ff0080;
+}
+   
+.bg-faded {
+    background-color: white;
+}
+
+body .navbar{
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    font-size: 1.1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    background-color: #fff;
+    color: #AAA;
+    
+}
+
+p {
+    margin: 5% 0;
+    color: #AAA;
+    font-size: 0.8em;
+}
+
+th {
+    margin: 5% 0;
+    color: #AAA;
+    font-size: 0.8em;
+}
+
+/*--------------------------------------------------------------*/
+/* session header  */
+/*--------------------------------------------------------------*/
+
+#session_qte_totale, #session_total, #user_name{
+    color: #ff0080;
+    font-weight: bold;
+}
+
+.card-columns {
+    column-count: 6;
+}
+
