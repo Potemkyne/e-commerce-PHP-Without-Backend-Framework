@@ -10,9 +10,10 @@
 
 <h1>Inscription:</h1>
 <img src="https://user-images.githubusercontent.com/14042789/29688734-fe7156e2-8920-11e7-910b-a95dde59467e.jpg"  />
+<img src="https://user-images.githubusercontent.com/14042789/29687564-21f3adbc-891d-11e7-9c38-03ca391ceb01.jpg"  />
 <h2> Base de données pour autocomplétion CP/Ville <a href="http://www.geonames.org/">http://www.geonames.org/</a></h2>
 <img src="https://user-images.githubusercontent.com/14042789/29688723-f5115b2e-8920-11e7-9c5e-c50d686a5336.jpg"  />
-<img src="https://user-images.githubusercontent.com/14042789/29687564-21f3adbc-891d-11e7-9c38-03ca391ceb01.jpg"  />
+
 <h1>Connexion:</h1>
 <img src="https://user-images.githubusercontent.com/14042789/29687557-21d7d376-891d-11e7-9735-6a691ecbf7e8.jpg"  />
 <img src="https://user-images.githubusercontent.com/14042789/29687562-21dbbab8-891d-11e7-9ff1-c240282be51e.jpg"  />
